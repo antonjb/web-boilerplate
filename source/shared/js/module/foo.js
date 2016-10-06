@@ -1,0 +1,1 @@
+export default foo => foo * 2 * 2;
